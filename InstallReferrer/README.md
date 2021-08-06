@@ -1,0 +1,50 @@
+# HUAWEI Ads Kit Install Referrer Sample
+
+
+## Table of Contents
+
+ * [Introduction](#introduction)
+ * [Installation](#installation)
+ * [Configuration ](#configuration)
+ * [Supported Environments](#supported-environments)
+ * [Sample Code](#sample-code)
+ * [License](#license)
+
+
+## Introduction
+HUAWEI Ads Kit Install Referrer Sample program demonstrates how to integrate the install referrer capability.
+
+## Installation
+Install the program on Huawei Android mobile phones.
+<br>You also can use HMS Toolkit to quickly integrate the kit and run the demo project, as well as debug the app using a remote device for free. For details, please visit [HMS Toolkit](https://developer.huawei.com/consumer/en/doc/development/Tools-Guides/getting-started-0000001077381096).</br>    
+    
+## Supported Environments
+HMS Core (APK) 2.6.5 or later has been installed on Huawei Android phones.
+	
+## Configuration 
+N/A
+	
+## Sample Code
+HUAWEI Ads Kit Install Referrer Sample program integrates the install referrer capability.
+<br>The following classes in the demo:
+
+1). PpsChannelInfoService.java
+<br>Test ChannelInfo Service.
+<br>Code location: InstallReferrer\app\src\main\java\com\huawei\pps\hms\test\PpsChannelInfoService.java.</br>
+	
+2). InstallReferrerWriteActivity.java
+<br>Write install referrer information
+<br>Code location: InstallReferrer\app\src\main\java\com\huawei\pps\hms\test\installreferrer\InstallReferrerWriteActivity.java.</br>
+    
+3). InstallReferrerActivity.java
+<br>Show install referrer information.
+<br>Code location: InstallReferrer\app\src\main\java\com\huawei\pps\hms\test\installreferrer\InstallReferrerActivity.java.</br>
+	
+4). IPPSChannelInfoService.aidl
+<br>ChannelInfo AIDL inferface.
+<br>Code location: InstallReferrer\app\src\main\aidl\com\huawei\android\hms\ppskit\IPPSChannelInfoService.aidl.</br>
+    
+
+
+##  License
+HUAWEI Ads Kit Install Referrer Sample is licensed under the [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
