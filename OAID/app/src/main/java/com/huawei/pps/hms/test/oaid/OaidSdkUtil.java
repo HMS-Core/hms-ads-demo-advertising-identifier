@@ -35,7 +35,7 @@ public class OaidSdkUtil {
             //Get advertising id information. Do not call this method in the main thread.
             AdvertisingIdClient.Info info = AdvertisingIdClient.getAdvertisingIdInfo(context);
             if (null != info) {
-                callback.onSuccuss(info.getId(), info.isLimitAdTrackingEnabled());
+                callback.onSuccess(info.getId(), info.isLimitAdTrackingEnabled());
             } else {
                 callback.onFail("oaid is null");
             }
