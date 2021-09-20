@@ -77,7 +77,7 @@ public class OaidActivity extends BaseActivity implements OaidCallback {
     }
 
     @Override
-    public void onSuccuss(String oaid, boolean isOaidTrackLimited) {
+    public void onSuccess(String oaid, boolean isOaidTrackLimited) {
         Log.i(TAG, "oiad=" + oaid + ", isLimitAdTrackingEnabled=" + isOaidTrackLimited);
         updateAdIdInfo(oaid, isOaidTrackLimited);
     }
