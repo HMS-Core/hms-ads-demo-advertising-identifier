@@ -83,7 +83,7 @@ public class InstallReferrerSdkUtil {
                 ReferrerDetails referrerDetails = mReferrerClient.getInstallReferrer();
                 if (null != referrerDetails && null != mCallback) {
                     // Update install referer details.
-                    mCallback.onSuccuss(referrerDetails.getInstallReferrer(),
+                    mCallback.onSuccess(referrerDetails.getInstallReferrer(),
                             referrerDetails.getReferrerClickTimestampMillisecond(),
                             referrerDetails.getInstallBeginTimestampMillisecond());
                 }
