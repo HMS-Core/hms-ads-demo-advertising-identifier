@@ -93,8 +93,8 @@ public class InstallReferrerActivity extends BaseActivity implements InstallRefe
     }
 
     @Override
-    public void onSuccuss(String installReferrer, long clickTimestamp, long installTimestamp) {
-        Log.i(TAG, "onSuccuss");
+    public void onSuccess(String installReferrer, long clickTimestamp, long installTimestamp) {
+        Log.i(TAG, "onSuccess");
         updateReferrerDetails(installReferrer, clickTimestamp, installTimestamp);
     }
 
