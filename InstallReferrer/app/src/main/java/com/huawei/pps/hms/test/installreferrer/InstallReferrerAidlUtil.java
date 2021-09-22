@@ -100,7 +100,7 @@ public class InstallReferrerAidlUtil {
                     long installTimestamp = jsonObject.optLong("installTimestamp", 0);
                     if (null != mCallback) {
                         // Update install referer details.
-                        mCallback.onSuccuss(installReferrer, clickTimestamp, installTimestamp);
+                        mCallback.onSuccess(installReferrer, clickTimestamp, installTimestamp);
                     } else {
                         mCallback.onFail("install referrer is empty");
                     }
