@@ -1,4 +1,4 @@
-# HUAWEI Ads Kit OAID Sample
+# Petal Ads OAID Sample
 
 
 ## Table of Contents
@@ -12,7 +12,7 @@
 
 
 ## Introduction
-The HUAWEI Ads Kit OAID Sample program demonstrates how to integrate OAID capabilities.
+The Petal Ads OAID Sample program demonstrates how to integrate OAID capabilities.
 
 ## Installation
 Install the program on Huawei Android mobile phones.
@@ -25,7 +25,7 @@ HMS Core (APK) 2.6.2 or later has been installed on Huawei Android phones.
 N/A
 	
 ## Sample Code
-The HUAWEI Ads Kit OAID Sample program integrates OAID capabilities.
+The Petal Ads OAID Sample program integrates OAID capabilities.
 <br>The following classes in the demo:
 
 1). MainActivity.java
@@ -38,4 +38,4 @@ The HUAWEI Ads Kit OAID Sample program integrates OAID capabilities.
     
 
 ##  License
-HUAWEI Ads Kit OAID Sample is licensed under the [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+Petal Ads OAID Sample is licensed under the [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
