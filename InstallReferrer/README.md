@@ -1,4 +1,4 @@
-# HUAWEI Ads Kit Install Referrer Sample
+# Petal Ads Install Referrer Sample
 
 
 ## Table of Contents
@@ -12,7 +12,7 @@
 
 
 ## Introduction
-HUAWEI Ads Kit Install Referrer Sample program demonstrates how to integrate the install referrer capability.
+Petal Ads Install Referrer Sample program demonstrates how to integrate the install referrer capability.
 
 ## Installation
 Install the program on Huawei Android mobile phones.
@@ -25,7 +25,7 @@ HMS Core (APK) 2.6.5 or later has been installed on Huawei Android phones.
 N/A
 	
 ## Sample Code
-HUAWEI Ads Kit Install Referrer Sample program integrates the install referrer capability.
+Petal Ads Install Referrer Sample program integrates the install referrer capability.
 <br>The following classes in the demo:
 
 1). PpsChannelInfoService.java
@@ -47,4 +47,4 @@ HUAWEI Ads Kit Install Referrer Sample program integrates the install referrer c
 
 
 ##  License
-HUAWEI Ads Kit Install Referrer Sample is licensed under the [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
+Petal Ads Install Referrer Sample is licensed under the [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
